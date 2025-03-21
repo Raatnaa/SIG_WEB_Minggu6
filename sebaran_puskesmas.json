@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gondokusuman 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3886934033635, -7.6896838096351985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gondokusuman 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.35329324507609, -7.8194447034305625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Jetis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.35583679676296, -7.803549117531546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Kotagede 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.37197181921653, -7.799391922718669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Kotagede 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3797009750673, -7.653884330702724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Kraton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.38944476937598, -7.778255025758412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mantrijeron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.40819092341667, -7.756577429269598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mergangsan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.431412648709, -7.774902277479214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Ngampilan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.360123, -7.801234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pakualaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.375678, -7.797890]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Tegalrejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.350987, -7.782345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Umbulharjo 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.395432, -7.811234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Umbulharjo 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.400123, -7.815678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Wirobrajan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.345678, -7.795432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Danurejan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.367890, -7.789012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gedongtengen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.360456, -7.795678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gondomanan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.370123, -7.781234]
+      }
+    },
+    {
+      "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Suryatmajan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.376789, -7.789456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Sorosutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.398765, -7.805432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Patangpuluhan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.345123, -7.800987]
+      }
+    }
+  ]
+}
